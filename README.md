@@ -1,7 +1,10 @@
 # CNYT-2023-1
 #CALCULADORA DE COMPLEJOS 
+
 En este repositorio se encuentran fusiones para realizar operaciones entre números complejos. 
+
 Las operaciones con las cuentas:
+
 -Suma
 -Producto
 -Resta
