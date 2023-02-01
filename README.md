@@ -6,9 +6,7 @@ En este repositorio se encuentran fusiones para realizar operaciones entre núme
 Las operaciones con las cuentas:
 
 -Suma
-
 -Producto
-
 -Resta
 
 -División
