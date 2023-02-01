@@ -6,11 +6,20 @@ En este repositorio se encuentran fusiones para realizar operaciones entre núme
 Las operaciones con las cuentas:
 
 -Suma
+
 -Producto
+
 -Resta
+
 -División
+
 -Módulo
+
 -Conjugado
+
 -Conversión entre representaciones polar y cartesiano
+
 -Retornar la fase de un número complejo.
+
+
 
