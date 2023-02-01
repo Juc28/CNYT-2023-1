@@ -16,7 +16,7 @@ Las operaciones con las cuentas:
 
 ## COMO USARLO 
 
-Hay que clonar este repositorio en tu pc (acá página para quede más claro esto) [Here](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
+Hay que clonar este repositorio en tu pc (acá una página para ayudar con esto) [Here](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 A continunacion comando:
 ```git bash
