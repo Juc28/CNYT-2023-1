@@ -25,7 +25,7 @@ $ git clone https://github.com/Juc28/CNYT-2023-1.git
 
 ## PARA PROBAR EL TEST 
 
-Abrir el archivo test.py en el IDL de prefencia y ejecutarlo 
+Abrir el archivo test.py en el IDL de prefencia y ejecutarlo de la siguiente manera:
 
 ## PARA USAR LA LIBRERIA 
 
